@@ -13,7 +13,8 @@ Lizenz: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (sofern nicht 
 Unterlagen
 ----------
 
-[Slides](Scripting-und-Coding-Slides-2019.pdf)
+- [Slides](Scripting-und-Coding-Slides-2019.pdf)
+- [Slides Projekte](Scripting-und-Coding-Slides-Projekte-2019.pdf)
 
 Projektanforderungen:
  - [HTML & CSS](spec-1.md)
