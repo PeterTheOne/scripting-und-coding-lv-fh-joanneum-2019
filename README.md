@@ -15,3 +15,7 @@ Unterlagen
 
 [Slides](Scripting-und-Coding-Slides-2019.pdf)
 
+Projektanforderungen:
+ - [HTML & CSS](spec-1.md)
+ - [SVG](spec-2.md)
+ 
