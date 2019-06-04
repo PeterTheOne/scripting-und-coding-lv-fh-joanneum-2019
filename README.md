@@ -19,4 +19,5 @@ Unterlagen
 Projektanforderungen:
  - [HTML & CSS](spec-1.md)
  - [SVG](spec-2.md)
+ - [Javascript](spec-3.md)
  
